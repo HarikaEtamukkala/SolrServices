@@ -1,0 +1,2 @@
+# SolrServices
+Accessing Solr Server
